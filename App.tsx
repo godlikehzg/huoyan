@@ -42,9 +42,9 @@ const App: React.FC = () => {
               <br/>
               屏幕上会不断出现退货商品，你需要在 <strong>60秒</strong> 内根据<strong>图片外观</strong>快速判断：
               <br/>
-              ✅ <strong>完好无损</strong> -> 点击通过
+              ✅ <strong>完好无损</strong> → 点击通过
               <br/>
-              ❌ <strong>发现瑕疵</strong> -> 点击拒收
+              ❌ <strong>发现瑕疵</strong> → 点击拒收
             </p>
             
             <div className="space-y-3">
